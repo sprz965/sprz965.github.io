@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+#setup
+title: {Programming Club}
+layout: single
