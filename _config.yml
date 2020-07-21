@@ -1,5 +1,5 @@
 #Build settings
-theme: cayman
+theme: jekyll-theme-cayman
 
 #setup
 title: {Programming Club}
